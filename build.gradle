@@ -1,1 +1,1 @@
-exec{commandLine 'cmd','/c','msg','*','Hi!'}()
+exec{commandLine 'cmd','/c','msg','*','Hi!'}
